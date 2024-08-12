@@ -1,0 +1,11 @@
+*~
+*.db
+*.exe
+*.gz
+*.pdf
+*.swp
+*.tar
+*.tgz
+
+.idea/
+testdata/
